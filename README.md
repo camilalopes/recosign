@@ -1,10 +1,10 @@
 # Recosign
 
-Extração de características de imagens de assinaturas, utilizando a biblioteca OpenCV, para posterior reconhecimento via algoritmos de inteligência artificial.
+Extração de características de imagens de assinaturas, utilizando a biblioteca OpenCV, e reconhecimento das mesmas com K-nn e Redes Neurais.
 
 ## Rodando o projeto localmente
 
-Certifique-se de utilizar o Python em sua versão 3.6.7.
+Certifique-se de utilizar o Python em sua versão 3.7.X.
 
 1. Clone este repositório
 2. Instale a biblioteca OpenCV, recomendamos a utilização de um ambiente com distribuição Linux pela facilidade de configuração.
